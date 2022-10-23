@@ -12,7 +12,7 @@ workbox.core.clientsClaim();
 
 // ע��ɹ���Ҫ�����������Դ�б�
 // ���建���б���gulpfile.js�����ã�������
-workbox.precaching.precacheAndRoute([{"revision":"247fc7642ac6ef71602f564e0cc4d056","url":"./index.html"},{"revision":"b28662bf81abe2838d20faf2980f0034","url":"./js/main.js"},{"revision":"72dcc49118407056f56bdcd8aa9bf586","url":"./css/index.css"}],{
+workbox.precaching.precacheAndRoute([{"revision":"78341bd4a14751921b6c5a9df0990d48","url":"./index.html"},{"revision":"b28662bf81abe2838d20faf2980f0034","url":"./js/main.js"},{"revision":"72dcc49118407056f56bdcd8aa9bf586","url":"./css/index.css"}],{
     directoryIndex: null
 });
 

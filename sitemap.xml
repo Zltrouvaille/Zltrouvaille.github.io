@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wzlblog.asia/posts/dfb8a81f.html</loc>
+    <loc>http://www.wzlblog.asia/posts/69c3279c.html</loc>
     
     <lastmod>2022-10-25</lastmod>
     
@@ -11,7 +11,52 @@
   </url>
   
   <url>
-    <loc>http://www.wzlblog.asia/posts/69c3279c.html</loc>
+    <loc>http://www.wzlblog.asia/posts/4c8158ba.html</loc>
+    
+    <lastmod>2022-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/categories/index.html</loc>
+    
+    <lastmod>2022-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/posts/ee68854d.html</loc>
+    
+    <lastmod>2022-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/tags/index.html</loc>
+    
+    <lastmod>2022-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/posts/4a17b156.html</loc>
+    
+    <lastmod>2022-10-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/posts/dfb8a81f.html</loc>
     
     <lastmod>2022-10-25</lastmod>
     
@@ -37,15 +82,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://www.wzlblog.asia/posts/4a17b156.html</loc>
-    
-    <lastmod>2022-10-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://www.wzlblog.asia/</loc>
@@ -54,6 +90,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://www.wzlblog.asia/tags/git/</loc>
+    <lastmod>2022-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   

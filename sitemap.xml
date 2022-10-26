@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wzlblog.asia/link/index.html</loc>
+    <loc>http://www.wzlblog.asia/posts/ef715bdc.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/posts/c0add594.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/posts/69c3279c.html</loc>
     
     <lastmod>2022-10-25</lastmod>
     
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://www.wzlblog.asia/posts/69c3279c.html</loc>
+    <loc>http://www.wzlblog.asia/link/index.html</loc>
     
     <lastmod>2022-10-25</lastmod>
     
@@ -58,7 +76,7 @@
 
   <url>
     <loc>http://www.wzlblog.asia/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,11 +84,32 @@
   
   <url>
     <loc>http://www.wzlblog.asia/tags/git/</loc>
-    <lastmod>2022-10-25</lastmod>
+    <lastmod>2022-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/tags/vue-html/</loc>
+    <lastmod>2022-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/tags/hexo/</loc>
+    <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://www.wzlblog.asia/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

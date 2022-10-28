@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>javasript</title>
+      <link href="/posts/javasript.html"/>
+      <url>/posts/javasript.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="BOM"><a href="#BOM" class="headerlink" title="## BOM"></a>## BOM</h1><ul><li>Math.floor(Math.random) <ul><li>四舍五入小数部分</li></ul></li><li>prompt<ul><li>屏幕上显示输入框</li></ul></li></ul><h2 id="window"><a href="#window" class="headerlink" title="window"></a>window</h2><ul><li>location.href() 跳转地址</li><li>window.onload: 在所有的dom全都加载完了运行了</li><li>onresize： 改变窗口大小运行函数</li><li>window.scroll : 滚动距离</li></ul><h1 id="DOM"><a href="#DOM" class="headerlink" title="DOM"></a>DOM</h1><h2 id="获取元素的方式"><a href="#获取元素的方式" class="headerlink" title="获取元素的方式"></a>获取元素的方式</h2><ul><li>document.head   获取head</li><li>document.body   获取body</li><li>document.documenteElement</li><li>.getElememtbyid 只会遇到第一个</li><li>getEbycls     是一个伪数组</li><li>items.innerHTML 重新赋值</li><li></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> javascipt </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexoi</title>
       <link href="/posts/ef715bdc.html"/>
       <url>/posts/ef715bdc.html</url>
@@ -52,7 +71,7 @@
       <link href="/posts/69c3279c.html"/>
       <url>/posts/69c3279c.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h1><h2 id="设置用户签名和邮箱"><a href="#设置用户签名和邮箱" class="headerlink" title="设置用户签名和邮箱"></a>设置用户签名和邮箱</h2><p>git config –global user.name</p><p>git config –global user.email</p><h2 id="初始化本地库"><a href="#初始化本地库" class="headerlink" title="初始化本地库"></a>初始化本地库</h2><p>git init</p><h2 id="查看本地库的状态"><a href="#查看本地库的状态" class="headerlink" title="查看本地库的状态"></a>查看本地库的状态</h2><p>git status</p><ol><li>红色的知识存在于工作区</li><li>绿色是存在暂存区</li><li>没有东西可以提交。</li></ol><h2 id="添加暂存区"><a href="#添加暂存区" class="headerlink" title="添加暂存区"></a>添加暂存区</h2><p>git add 文件名</p><h2 id="提交本地库"><a href="#提交本地库" class="headerlink" title="提交本地库"></a>提交本地库</h2><p>git commit -m’’日志信息’’（版本）文件名</p><h2 id="查看信息"><a href="#查看信息" class="headerlink" title="查看信息"></a>查看信息</h2><p>git relog</p><p>详细 git log能够知道谁提交的</p><h2 id="版本穿梭"><a href="#版本穿梭" class="headerlink" title="版本穿梭"></a>版本穿梭</h2><p>git reset –hard 版本号</p><h2 id="分支"><a href="#分支" class="headerlink" title="分支"></a>分支</h2><p>副本指针的引用</p><h3 id="分支的操作"><a href="#分支的操作" class="headerlink" title="分支的操作"></a>分支的操作</h3><p>查看分支: git branch -v</p><p>创建分支:git branch 分支名</p><p>切换分支:git checkout 分支名</p><p>合并分支：git merge 分支名</p><p>​注意：</p><ul><li>提交 时候不能加上文件名子</li><li></li></ul><h1 id="GItHub"><a href="#GItHub" class="headerlink" title="GItHub"></a>GItHub</h1><h2 id="别名"><a href="#别名" class="headerlink" title="别名"></a>别名</h2><p>git  remote -v （查看当前所有的远程地址的别名）</p><p>git remote add 别名 远程地址（设置别名）</p><h2 id="推送-分支"><a href="#推送-分支" class="headerlink" title="推送(分支)"></a>推送(分支)</h2><p>git push git-demo master</p><h2 id="拉取"><a href="#拉取" class="headerlink" title="拉取"></a>拉取</h2><p>git pull git-demo master</p><h2 id="克隆"><a href="#克隆" class="headerlink" title="克隆"></a>克隆</h2><p>克隆：git clone 地址</p><h2 id="团队协作"><a href="#团队协作" class="headerlink" title="团队协作"></a>团队协作</h2><p>加入团队后才能相互推送</p><h2 id="shh免密登录"><a href="#shh免密登录" class="headerlink" title="shh免密登录"></a>shh免密登录</h2><p>ssh-keygen -t rsa -C <a href="mailto:&#51;&#48;&#x32;&#x37;&#54;&#x33;&#56;&#x39;&#x33;&#x38;&#64;&#x71;&#113;&#46;&#x63;&#x6f;&#x6d;">&#51;&#48;&#x32;&#x37;&#54;&#x33;&#56;&#x39;&#x33;&#x38;&#64;&#x71;&#113;&#46;&#x63;&#x6f;&#x6d;</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h1><h2 id="设置用户签名和邮箱"><a href="#设置用户签名和邮箱" class="headerlink" title="设置用户签名和邮箱"></a>设置用户签名和邮箱</h2><p>git config –global user.name</p><p>git config –global user.email</p><h2 id="初始化本地库"><a href="#初始化本地库" class="headerlink" title="初始化本地库"></a>初始化本地库</h2><p>git init</p><h2 id="查看本地库的状态"><a href="#查看本地库的状态" class="headerlink" title="查看本地库的状态"></a>查看本地库的状态</h2><p>git status</p><ol><li>红色的知识存在于工作区</li><li>绿色是存在暂存区</li><li>没有东西可以提交。</li></ol><h2 id="添加暂存区"><a href="#添加暂存区" class="headerlink" title="添加暂存区"></a>添加暂存区</h2><p>git add 文件名</p><h2 id="提交本地库"><a href="#提交本地库" class="headerlink" title="提交本地库"></a>提交本地库</h2><p>git commit -m’’日志信息’’（版本）文件名</p><h2 id="查看信息"><a href="#查看信息" class="headerlink" title="查看信息"></a>查看信息</h2><p>git relog</p><p>详细 git log能够知道谁提交的</p><h2 id="版本穿梭"><a href="#版本穿梭" class="headerlink" title="版本穿梭"></a>版本穿梭</h2><p>git reset –hard 版本号</p><h2 id="分支"><a href="#分支" class="headerlink" title="分支"></a>分支</h2><p>副本指针的引用</p><h3 id="分支的操作"><a href="#分支的操作" class="headerlink" title="分支的操作"></a>分支的操作</h3><p>查看分支: git branch -v</p><p>创建分支:git branch 分支名</p><p>切换分支:git checkout 分支名</p><p>合并分支：git merge 分支名</p><p>​注意：</p><ul><li>提交 时候不能加上文件名子</li><li></li></ul><h1 id="GItHub"><a href="#GItHub" class="headerlink" title="GItHub"></a>GItHub</h1><h2 id="别名"><a href="#别名" class="headerlink" title="别名"></a>别名</h2><p>git  remote -v （查看当前所有的远程地址的别名）</p><p>git remote add 别名 远程地址（设置别名）</p><h2 id="推送-分支"><a href="#推送-分支" class="headerlink" title="推送(分支)"></a>推送(分支)</h2><p>git push git-demo master</p><h2 id="拉取"><a href="#拉取" class="headerlink" title="拉取"></a>拉取</h2><p>git pull git-demo master</p><h2 id="克隆"><a href="#克隆" class="headerlink" title="克隆"></a>克隆</h2><p>克隆：git clone 地址</p><h2 id="团队协作"><a href="#团队协作" class="headerlink" title="团队协作"></a>团队协作</h2><p>加入团队后才能相互推送</p><h2 id="shh免密登录"><a href="#shh免密登录" class="headerlink" title="shh免密登录"></a>shh免密登录</h2><p>ssh-keygen -t rsa -C <a href="mailto:&#x33;&#48;&#x32;&#x37;&#x36;&#x33;&#56;&#x39;&#51;&#56;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#109;">&#x33;&#48;&#x32;&#x37;&#x36;&#x33;&#56;&#x39;&#51;&#56;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#109;</a></p>]]></content>
       
       
       

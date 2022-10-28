@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.wzlblog.asia/posts/ef715bdc.html</loc>
+    <loc>http://www.wzlblog.asia/posts/js.html</loc>
     
-    <lastmod>2022-10-27</lastmod>
+    <lastmod>2022-10-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://www.wzlblog.asia/posts/c0add594.html</loc>
+    <loc>http://www.wzlblog.asia/posts/ef715bdc.html</loc>
     
     <lastmod>2022-10-27</lastmod>
     
@@ -106,14 +106,14 @@
   </url>
   
   <url>
-    <loc>http://www.wzlblog.asia/tags/javascipt/</loc>
+    <loc>http://www.wzlblog.asia/tags/vue-html/</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.wzlblog.asia/tags/vue-html/</loc>
+    <loc>http://www.wzlblog.asia/tags/javascipt/</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

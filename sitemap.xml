@@ -110,6 +110,13 @@
 
   
   <url>
+    <loc>http://www.wzlblog.asia/tags/hexoi/</loc>
+    <lastmod>2022-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.wzlblog.asia/tags/git/</loc>
     <lastmod>2022-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -124,20 +131,6 @@
   </url>
   
   <url>
-    <loc>http://www.wzlblog.asia/tags/hexoi/</loc>
-    <lastmod>2022-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.wzlblog.asia/tags/javaweb/</loc>
-    <lastmod>2022-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.wzlblog.asia/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2022-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -146,6 +139,13 @@
   
   <url>
     <loc>http://www.wzlblog.asia/tags/vue-html/</loc>
+    <lastmod>2022-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wzlblog.asia/tags/javaweb/</loc>
     <lastmod>2022-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
